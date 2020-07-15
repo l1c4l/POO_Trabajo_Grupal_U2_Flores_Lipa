@@ -1,0 +1,6 @@
+C:\Users\AbrahamLIPACALABILLA\source\repos\POO_Trabajo_Grupal_U2_Flores_Lipa\obj\Debug\POO_Trabajo_Grupal_U2_Flores_Lipa.csprojAssemblyReference.cache
+C:\Users\AbrahamLIPACALABILLA\source\repos\POO_Trabajo_Grupal_U2_Flores_Lipa\bin\Debug\POO_Trabajo_Grupal_U2_Flores_Lipa.exe.config
+C:\Users\AbrahamLIPACALABILLA\source\repos\POO_Trabajo_Grupal_U2_Flores_Lipa\bin\Debug\POO_Trabajo_Grupal_U2_Flores_Lipa.exe
+C:\Users\AbrahamLIPACALABILLA\source\repos\POO_Trabajo_Grupal_U2_Flores_Lipa\bin\Debug\POO_Trabajo_Grupal_U2_Flores_Lipa.pdb
+C:\Users\AbrahamLIPACALABILLA\source\repos\POO_Trabajo_Grupal_U2_Flores_Lipa\obj\Debug\POO_Trabajo_Grupal_U2_Flores_Lipa.exe
+C:\Users\AbrahamLIPACALABILLA\source\repos\POO_Trabajo_Grupal_U2_Flores_Lipa\obj\Debug\POO_Trabajo_Grupal_U2_Flores_Lipa.pdb
